@@ -1,0 +1,8 @@
+2020-03-29 05:33:31,024 :INFO :PyTestDemo.test_fixturedemo2 :I am in first method
+2020-03-29 05:33:31,029 :INFO :PyTestDemo.test_fixturedemo2 :['Sid', 'Tondare', 'AutomationTesting']
+2020-03-29 05:33:31,029 :INFO :PyTestDemo.test_fixturedemo2 :['Sid', 'Tondare', 'AutomationTesting']
+2020-03-29 05:33:31,032 :DEBUG :PyTestDemo.test_logging :Debug logs
+2020-03-29 05:33:31,032 :INFO :PyTestDemo.test_logging :Information logs
+2020-03-29 05:33:31,032 :WARNING :PyTestDemo.test_logging :Warning logs
+2020-03-29 05:33:31,033 :ERROR :PyTestDemo.test_logging :Error logs
+2020-03-29 05:33:31,033 :CRITICAL :PyTestDemo.test_logging :Critical logs
